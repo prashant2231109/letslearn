@@ -7,4 +7,7 @@
     printf("hello");
     printf("hey");
     printf("guys");
+     printf("hello");
+    printf("hey");
+    printf("guys");
  }
